@@ -1,6 +1,6 @@
 {
-  "name": "three",
-  "version": "0.164.1",
+  "name": "three-fork-adjustable3d",
+  "version": "0.164.2",
   "description": "JavaScript 3D library",
   "type": "module",
   "main": "./build/three.cjs",
